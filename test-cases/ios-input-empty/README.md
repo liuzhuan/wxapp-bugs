@@ -17,4 +17,4 @@
 
 录屏效果如下：
 
-<video src="./screencast.MOV" controls="controls" height="568" width="320"></video>
+![ScreenCast](./screen.gif)
