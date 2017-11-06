@@ -1,8 +1,14 @@
 <view class="page">
-    
+
     <view class="page__bd">
         <input type="text" placeholder="Input Some Value" />
-        <view class="blank">Blank</view>
+        <view class="blank">
+            <view>微信版本：{{version}}</view>
+            <view>基础库版本：{{SDKVersion}}</view>
+            <view>机型：{{model}}</view>
+            <view>手机操作系统：{{system}}</view>
+            <view>平台：{{platform}}</view>
+        </view>
         <input type="text" placeholder="Input Some Value" />
     </view>
 
