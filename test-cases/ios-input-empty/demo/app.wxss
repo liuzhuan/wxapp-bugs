@@ -1,0 +1,26 @@
+.page {
+    padding: 15px 15px 60px;
+    background: #CCC;
+}
+
+.blank {
+    height: 500px;
+    background: #DDD;
+}
+
+input {
+    background: white;
+    border: 1px solid red;
+}
+
+.page__ft {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 40px;
+    line-height: 40px;
+    background: steelblue;
+    color: white;
+    text-align: center;
+}

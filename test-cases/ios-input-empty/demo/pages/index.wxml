@@ -1,0 +1,12 @@
+<view class="page">
+    
+    <view class="page__bd">
+        <input type="text" placeholder="Input Some Value" />
+        <view class="blank">Blank</view>
+        <input type="text" placeholder="Input Some Value" />
+    </view>
+
+    <view class="page__ft">
+        FOOTER
+    </view>
+</view>
