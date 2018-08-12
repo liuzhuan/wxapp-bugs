@@ -1,5 +1,6 @@
 # wxapp-bugs
-捕捉微信小程序的bug
+
+捕捉微信小程序的bug；或者验证一些想法；
 
 ## buglist
 
