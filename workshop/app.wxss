@@ -1,0 +1,14 @@
+.page__hd,
+.page__bd {
+    margin: 10px 15px;
+}
+
+.page__title {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.cell {
+    line-height: 2.5;
+    font-size: 16px;
+}

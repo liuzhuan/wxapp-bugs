@@ -1,1 +1,9 @@
-<view>Index</view>
+<view class="page__hd">
+    <view class="page__title">Debug Workshop</view>
+</view>
+
+<view class="page__bd">
+    <navigator url="/pages/comp-func-props/index" class="cell">
+        Component with Function Properties
+    </navigator>
+</view>

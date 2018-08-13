@@ -1,0 +1,6 @@
+<view class="page__hd">
+    <view class="page__title">带有函数类型的属性</view>
+</view>
+<view class="page__bd">
+    <foo callback="{{callback}}"></foo>
+</view>

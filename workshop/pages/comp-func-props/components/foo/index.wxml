@@ -1,0 +1,6 @@
+<view>
+    Component of foo
+    <view>
+        <button bind:tap="innerCallback" data-id="42">CLICK</button>
+    </view>
+</view>
