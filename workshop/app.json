@@ -1,7 +1,8 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/comp-func-props/index"
+    "pages/comp-func-props/index",
+    "pages/material-icons/index"
   ],
   "window":{
     "backgroundTextStyle":"light",

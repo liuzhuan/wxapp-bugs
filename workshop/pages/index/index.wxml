@@ -6,4 +6,7 @@
     <navigator url="/pages/comp-func-props/index" class="cell">
         Component with Function Properties
     </navigator>
+    <navigator url="/pages/material-icons/index" class="cell">
+        Material Icons
+    </navigator>
 </view>

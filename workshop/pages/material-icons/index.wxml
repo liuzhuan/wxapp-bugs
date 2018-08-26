@@ -1,0 +1,17 @@
+<view class="page__hd">
+    <view class="page__title">
+        Material Icons
+    </view>
+</view>
+
+<view class="page__bd">
+    <view class="grids-title">数量：{{ icons.length }} 个</view>
+    <view class="grids">
+        <view class="grid" wx:for="{{ icons }}" 
+            bind:tap="onTap"
+            data-icon="{{ item }}">
+            <view class="material-icons">{{ item }}</view>
+            <view class="material-label">{{ item }}</view>
+        </view>
+    </view>
+</view>
